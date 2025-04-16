@@ -1,0 +1,51 @@
+3232. Find if Digit Game Can Be Won
+
+
+bool canAliceWin(int* nums, int numsSize) {
+    int total=0,singlesum=0,doublesum=0;
+    for(int i=0;i<numsSize;i++)
+    {
+        int num=nums[i];
+        total+=num;
+        if(num>=1 && num<=9)
+         singlesum+=num;
+         else if(num>=10 && num<=99)
+         doublesum+=num;
+    }
+    if(singlesum>doublesum || doublesum>singlesum )
+    return true;
+    else
+    return false;
+}
+
+OUTPUT:
+
+Example 1:
+
+Input: nums = [1,2,3,4,10]
+
+Output: false
+
+Explanation:
+
+Alice cannot win by choosing either single-digit or double-digit numbers.
+
+Example 2:
+
+Input: nums = [1,2,3,4,5,14]
+
+Output: true
+
+Explanation:
+
+Alice can win by choosing single-digit numbers which have a sum equal to 15.
+
+Example 3:
+
+Input: nums = [5,5,5,25]
+
+Output: true
+
+Explanation:
+
+Alice can win by choosing double-digit numbers which have a sum equal to 25.
