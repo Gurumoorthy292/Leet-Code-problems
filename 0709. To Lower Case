@@ -1,0 +1,27 @@
+Given a string s, return the string after replacing every uppercase letter with the same lowercase letter.
+
+SOURCE CODE:
+
+char* toLowerCase(char* s) {
+    int l=strlen(s);
+    for(int i=0;i<l;i++)
+    {
+        if(s[i]>=65 && s[i]<=90)
+        s[i]+=32;
+    }
+    return s;
+}
+
+OUTPUT:
+
+Example 1:
+Input: s = "Hello"
+Output: "hello"
+
+Example 2:
+Input: s = "here"
+Output: "here"
+
+Example 3:
+Input: s = "LOVELY"
+Output: "lovely"
