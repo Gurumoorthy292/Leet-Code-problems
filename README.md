@@ -47,7 +47,7 @@ Let’s grow together! 🌱💪
 ## 📈 Profiles
 
 - 🔗 [My GitHub](https://github.com/Gurumoorthy292)  
-- 🔗 [My LeetCode](https://leetcode.com/u/Gurumoorthy_292/) <!-- Replace with your LeetCode username -->
+- 🔗 [My LeetCode](https://leetcode.com/u/Gurumoorthy292/) <!-- Replace with your LeetCode username -->
 
 ---
 
