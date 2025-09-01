@@ -5,7 +5,7 @@ SOURCE CODE:
 
 class Solution {
     public int maxRepeating(String sequence, String word) {
-        if(sequence==null || word==null ||word.length) {
+        if(sequence==null || word==null || word.length()==0) {
             return 0;
         }
         int count = 0;
