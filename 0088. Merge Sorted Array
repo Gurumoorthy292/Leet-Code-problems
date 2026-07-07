@@ -7,32 +7,13 @@ and the last n elements are set to 0 and should be ignored. nums2 has a length o
 
 SOURCE CODE:
 
-void merge(int* nums1, int nums1Size, int m, int* nums2, int nums2Size, int n) {
-    int* temp = (int*)malloc(m * sizeof(int));
-    if (temp == NULL) {
-    return;
-}
-    for (int i = 0; i < m; i++)
-        temp[i] = nums1[i];
-
-    int i = 0, j = 0, k = 0;
-    while (i < m && j < n) {
-        if (temp[i] <= nums2[j]) {
-            nums1[k++] = temp[i++];
-        } else {
-            nums1[k++] = nums2[j++];
+class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        for(int i=0;i<n;i++){
+            nums1[i+m] = nums2[i];
         }
+        Arrays.sort(nums1);
     }
-
-    while (i < m) {
-        nums1[k++] = temp[i++];
-    }
-
-    while (j < n) {
-        nums1[k++] = nums2[j++];
-    }
-
-    free(temp);
 }
 
 OUTPUT:
