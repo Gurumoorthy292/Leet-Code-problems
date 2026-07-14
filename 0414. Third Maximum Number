@@ -3,30 +3,18 @@
 Given an integer array nums, return the third distinct maximum number in this array. If the third maximum does not exist, return the maximum number.
 
 SOURCE CODE:
-int thirdMax(int* nums, int numsSize) {
-    
-    for(int i=0; i<numsSize; i++)
-	{
-		for(int j=i+1; j<numsSize; j++)
-		{
-			if(nums[i]<nums[j])
-			{
-				int temp=nums[i];
-				nums[i]=nums[j];
-				nums[j]=temp;
-			}
-		}
-	}
-    int flag = 1;
-    for (int i = 1; i < numsSize; i++) {
-        if (nums[i] != nums[i - 1]) {
-            flag++;
+class Solution {
+    public int thirdMax(int[] nums) {
+        Set<Integer> set = new TreeSet<>(Comparator.reverseOrder());
+        for(Integer s : nums){
+            set.add(s);
         }
-        if (flag == 3) {
-            return nums[i]; 
+        List<Integer> list = new ArrayList<>(set);
+        if(list.size() < 3){
+            return list.get(0);
         }
+        return list.get(2);
     }
-    return nums[0];
 }
 
 OUTPUT:
