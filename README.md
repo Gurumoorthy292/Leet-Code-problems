@@ -69,6 +69,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/master/0202-happy-number) |
+| [0443-string-compression](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0443-string-compression/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0443-string-compression](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0443-string-compression/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
