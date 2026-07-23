@@ -62,6 +62,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0136-single-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0189-rotate-array/) | Medium |
 | [0414-third-maximum-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0890-find-and-replace-pattern](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0202-happy-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/master/0202-happy-number) |
+| [0890-find-and-replace-pattern](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -94,6 +96,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0443-string-compression](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0443-string-compression/) | Medium |
+| [0890-find-and-replace-pattern](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
