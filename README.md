@@ -80,6 +80,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0125-valid-palindrome](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0443-string-compression/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -117,6 +118,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0205-isomorphic-strings/) | Easy |
+| [0392-is-subsequence](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0443-string-compression/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -137,4 +139,8 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0881-boats-to-save-people/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
