@@ -68,6 +68,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0881-boats-to-save-people](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Two Pointers
@@ -82,6 +83,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0443-string-compression](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0443-string-compression/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1089-duplicate-zeros/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
