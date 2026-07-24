@@ -58,6 +58,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0189-rotate-array/) | Medium |
@@ -69,6 +70,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0189-rotate-array/) | Medium |
@@ -119,4 +121,8 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
