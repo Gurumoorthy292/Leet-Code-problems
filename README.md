@@ -65,6 +65,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0189-rotate-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0189-rotate-array/) | Medium |
 | [0414-third-maximum-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0704-binary-search](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0704-binary-search/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -151,4 +152,8 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0392-is-subsequence/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
