@@ -73,6 +73,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0929-unique-email-addresses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -143,6 +144,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0392-is-subsequence/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
