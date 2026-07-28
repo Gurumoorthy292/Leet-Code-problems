@@ -65,6 +65,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0136-single-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0189-rotate-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0414-third-maximum-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -191,5 +192,6 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
