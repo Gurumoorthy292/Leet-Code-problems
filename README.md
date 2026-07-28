@@ -65,6 +65,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0136-single-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0189-rotate-array/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0414-third-maximum-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0704-binary-search/) | Easy |
@@ -183,4 +184,12 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
