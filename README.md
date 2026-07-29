@@ -201,6 +201,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0206-reverse-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
