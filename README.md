@@ -83,6 +83,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0929-unique-email-addresses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Two Pointers
@@ -232,6 +233,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0503-next-greater-element-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0739-daily-temperatures/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,4 +244,5 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0496-next-greater-element-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0739-daily-temperatures/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
