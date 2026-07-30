@@ -217,6 +217,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0092-reverse-linked-list-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0234-palindrome-linked-list/) | Easy |
