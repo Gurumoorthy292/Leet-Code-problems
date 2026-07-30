@@ -73,6 +73,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0643-maximum-average-subarray-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -226,6 +227,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0234-palindrome-linked-list](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0739-daily-temperatures/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,4 +236,5 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
