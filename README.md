@@ -86,6 +86,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [3527-find-the-most-common-response](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +119,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0929-unique-email-addresses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3527-find-the-most-common-response](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,11 +153,13 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0929-unique-email-addresses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3527-find-the-most-common-response](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3527-find-the-most-common-response](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
