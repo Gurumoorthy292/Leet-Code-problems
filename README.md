@@ -125,6 +125,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/master/0202-happy-number) |
+| [3099-harshad-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3099-harshad-number/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
