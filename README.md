@@ -122,6 +122,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -160,6 +161,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -175,6 +177,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [1052-grumpy-bookstore-owner](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
