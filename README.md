@@ -131,6 +131,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0202-happy-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0507-perfect-number/) | Easy |
 | [3099-harshad-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3099-harshad-number/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -265,4 +266,8 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0503-next-greater-element-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
