@@ -61,6 +61,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0011-container-with-most-water](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0078-subsets](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -144,6 +145,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0136-single-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -272,4 +274,8 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
