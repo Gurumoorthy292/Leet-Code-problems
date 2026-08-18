@@ -152,6 +152,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0344-reverse-string/) | Easy |
@@ -192,6 +193,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0392-is-subsequence/) | Easy |
@@ -277,5 +279,10 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0078-subsets/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
