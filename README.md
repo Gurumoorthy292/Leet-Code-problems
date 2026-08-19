@@ -156,6 +156,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0020-valid-parentheses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0392-is-subsequence/) | Easy |
@@ -199,6 +200,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -285,6 +287,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0078-subsets/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
