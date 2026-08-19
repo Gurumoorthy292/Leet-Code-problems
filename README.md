@@ -82,6 +82,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0905-sort-array-by-parity](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0929-unique-email-addresses/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1052-grumpy-bookstore-owner](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -121,6 +122,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0804-unique-morse-code-words](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0929-unique-email-addresses/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -172,6 +174,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3527-find-the-most-common-response/) | Medium |
@@ -180,6 +183,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1052-grumpy-bookstore-owner](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
