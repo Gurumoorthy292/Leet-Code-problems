@@ -76,6 +76,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0643-maximum-average-subarray-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0704-binary-search/) | Easy |
+| [0735-asteroid-collision](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0881-boats-to-save-people/) | Medium |
@@ -278,12 +279,14 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0496-next-greater-element-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0682-baseball-game/) | Easy |
+| [0735-asteroid-collision](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0682-baseball-game/) | Easy |
+| [0735-asteroid-collision](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0735-asteroid-collision/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
