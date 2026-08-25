@@ -274,6 +274,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0020-valid-parentheses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0143-reorder-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -325,12 +326,15 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
