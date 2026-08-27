@@ -306,6 +306,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0078-subsets/) | Medium |
+| [0113-path-sum-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -328,6 +329,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0112-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -336,6 +338,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0112-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -344,6 +347,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0112-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
