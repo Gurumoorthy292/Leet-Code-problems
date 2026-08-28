@@ -341,6 +341,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0145-binary-tree-postorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
@@ -357,6 +358,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0145-binary-tree-postorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Tree
@@ -373,6 +375,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0145-binary-tree-postorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## DP on Trees
@@ -385,11 +388,13 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0112-path-sum/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
