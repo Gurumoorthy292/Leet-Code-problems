@@ -331,6 +331,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0112-path-sum/) | Easy |
@@ -346,6 +347,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0112-path-sum/) | Easy |
@@ -361,6 +363,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0112-path-sum/) | Easy |
@@ -385,6 +388,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
