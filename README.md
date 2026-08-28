@@ -109,6 +109,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0344-reverse-string](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0443-string-compression/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -122,6 +123,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0202-happy-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -341,6 +343,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0145-binary-tree-postorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -358,6 +361,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0145-binary-tree-postorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -375,6 +379,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0145-binary-tree-postorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -388,12 +393,14 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0112-path-sum/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
