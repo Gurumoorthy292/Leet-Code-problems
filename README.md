@@ -200,6 +200,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0011-container-with-most-water](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +227,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0053-maximum-subarray](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,6 +341,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -353,6 +356,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +371,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,4 +387,5 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
