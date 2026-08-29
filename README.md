@@ -361,6 +361,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0145-binary-tree-postorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -393,6 +394,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0112-path-sum/) | Easy |
+| [0547-number-of-provinces](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Search Tree
@@ -404,4 +406,12 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
