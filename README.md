@@ -72,6 +72,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0238-product-of-array-except-self](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0414-third-maximum-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0463-island-perimeter](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -365,6 +366,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0145-binary-tree-postorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0463-island-perimeter](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -402,6 +404,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0200-number-of-islands/) | Medium |
+| [0463-island-perimeter](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0695-max-area-of-island](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0695-max-area-of-island/) | Medium |
@@ -431,6 +434,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0200-number-of-islands/) | Medium |
+| [0463-island-perimeter](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0994-rotting-oranges/) | Medium |
