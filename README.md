@@ -75,6 +75,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0503-next-greater-element-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0682-baseball-game/) | Easy |
+| [0695-max-area-of-island](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0735-asteroid-collision/) | Medium |
@@ -364,6 +365,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0695-max-area-of-island](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -398,6 +400,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0112-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0112-path-sum/) | Easy |
 | [0547-number-of-provinces](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0695-max-area-of-island](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Search Tree
@@ -413,6 +416,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0695-max-area-of-island/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,5 +424,6 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0695-max-area-of-island](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0733-flood-fill/) | Easy |
 <!---LeetCode Topics End-->
