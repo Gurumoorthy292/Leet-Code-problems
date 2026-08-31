@@ -88,6 +88,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0918-maximum-sum-circular-subarray](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0994-rotting-oranges](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -406,6 +407,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0695-max-area-of-island](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0994-rotting-oranges](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -431,4 +433,5 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0200-number-of-islands](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
