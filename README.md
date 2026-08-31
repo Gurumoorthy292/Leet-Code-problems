@@ -377,6 +377,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0797-all-paths-from-source-to-target](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -414,6 +415,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0994-rotting-oranges](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0994-rotting-oranges/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,11 +431,13 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0200-number-of-islands](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0695-max-area-of-island/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
