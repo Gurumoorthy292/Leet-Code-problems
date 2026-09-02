@@ -96,6 +96,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [1207-unique-number-of-occurrences](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Two Pointers
@@ -434,6 +435,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0200-number-of-islands](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0695-max-area-of-island/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -441,6 +443,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0547-number-of-provinces](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -462,4 +465,20 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0743-network-delay-time/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
