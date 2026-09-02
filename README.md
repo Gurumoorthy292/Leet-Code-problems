@@ -90,6 +90,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0929-unique-email-addresses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0929-unique-email-addresses/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0994-rotting-oranges/) | Medium |
+| [1046-last-stone-weight](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -329,6 +330,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0743-network-delay-time](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0743-network-delay-time/) | Medium |
+| [1046-last-stone-weight](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1046-last-stone-weight/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
