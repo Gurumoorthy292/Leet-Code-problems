@@ -253,6 +253,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0155-min-stack](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -329,6 +330,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0743-network-delay-time/) | Medium |
 | [1046-last-stone-weight](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1046-last-stone-weight/) | Easy |
 ## Quickselect
@@ -338,6 +340,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -354,6 +357,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -398,6 +402,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -428,6 +433,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0098-validate-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
