@@ -99,6 +99,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -243,6 +244,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0232-implement-queue-using-stacks](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0933-number-of-recent-calls/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -303,6 +305,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0735-asteroid-collision/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
