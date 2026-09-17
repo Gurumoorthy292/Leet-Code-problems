@@ -153,6 +153,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0189-rotate-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0342-power-of-four/) | Easy |
 | [0507-perfect-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0507-perfect-number/) | Easy |
@@ -245,6 +246,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0258-add-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -323,6 +325,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0258-add-digits/) | Easy |
 | [0682-baseball-game](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0735-asteroid-collision/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
