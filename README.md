@@ -187,6 +187,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0804-unique-morse-code-words](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0929-unique-email-addresses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -307,6 +308,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0682-baseball-game](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0739-daily-temperatures/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
