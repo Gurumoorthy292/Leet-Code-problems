@@ -152,6 +152,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0069-sqrtx](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0326-power-of-three/) | Easy |
 | [0507-perfect-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0507-perfect-number/) | Easy |
 | [3099-harshad-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3099-harshad-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -293,6 +294,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0143-reorder-list](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0326-power-of-three/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
