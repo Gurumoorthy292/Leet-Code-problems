@@ -152,6 +152,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0069-sqrtx](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0326-power-of-three/) | Easy |
 | [0507-perfect-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0507-perfect-number/) | Easy |
 | [3099-harshad-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3099-harshad-number/) | Easy |
@@ -171,6 +172,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0078-subsets](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0231-power-of-two/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +295,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0025-reverse-nodes-in-k-group](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0326-power-of-three/) | Easy |
 ## Stack
