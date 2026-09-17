@@ -146,6 +146,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0507-perfect-number/) | Easy |
@@ -226,6 +227,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0704-binary-search/) | Easy |
 ## Number Theory
@@ -494,4 +496,8 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
