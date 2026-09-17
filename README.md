@@ -150,6 +150,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0069-sqrtx/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0231-power-of-two/) | Easy |
@@ -184,6 +185,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0022-generate-parentheses](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0392-is-subsequence/) | Easy |
