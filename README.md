@@ -72,6 +72,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0215-kth-largest-element-in-an-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0463-island-perimeter](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0496-next-greater-element-i/) | Easy |
@@ -116,6 +117,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0202-happy-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0344-reverse-string/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0443-string-compression/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -131,6 +133,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0141-linked-list-cycle](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0205-isomorphic-strings/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0771-jewels-and-stones/) | Easy |
@@ -158,6 +161,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -229,6 +233,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0704-binary-search/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
