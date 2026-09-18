@@ -157,6 +157,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0258-add-digits](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0507-perfect-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0507-perfect-number/) | Easy |
 | [3099-harshad-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3099-harshad-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -177,6 +178,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0136-single-number](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0371-sum-of-two-integers/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
