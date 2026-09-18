@@ -379,6 +379,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0094-binary-tree-inorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0112-path-sum/) | Easy |
@@ -400,6 +401,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0094-binary-tree-inorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0112-path-sum/) | Easy |
@@ -428,6 +430,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0094-binary-tree-inorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0112-path-sum/) | Easy |
@@ -452,6 +455,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
