@@ -385,6 +385,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -404,6 +405,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0463-island-perimeter](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0463-island-perimeter/) | Easy |
@@ -430,6 +432,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -447,6 +450,7 @@ Thanks for stopping by! Happy Coding 👨‍💻✨
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0112-path-sum/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/Gurumoorthy292/Leet-Code-problems/tree/main/0547-number-of-provinces/) | Medium |
